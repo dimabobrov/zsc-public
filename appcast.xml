@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>ZSC</title>
+        <item>
+            <title>1.4.0</title>
+            <pubDate>Thu, 25 Aug 2022 01:19:07 +0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dimabobrov/zsc-public/releases/download/1.4.0/ZSC.zip" length="3977533" type="application/octet-stream" sparkle:edSignature="CSSj69N8LjQkL5nUkes3baliCOLPb8cchplLsWDnAIS8YS8CUGcCg89aG5THpDBNpgIQmQ6ulx98HkoB4+PLBA=="/>
+        </item>
+    </channel>
+</rss>
