@@ -3,6 +3,14 @@
     <channel>
         <title>ZSC</title>
         <item>
+            <title>1.6.1</title>
+            <pubDate>Sat, 17 Dec 2022 19:41:22 +0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dimabobrov/zsc-public/releases/download/1.6.1/ZSC.zip" length="4472698" type="application/octet-stream" sparkle:edSignature="7ZB9nqqtUMyXw2Vp5hyC7X15S2G2AuIkK6jSIOsC2gCOYuapGNcorY6zpWvM8x4Kj2q6m05+17GQb3O8gUqxCA=="/>
+        </item>
+        <item>
             <title>1.6.0</title>
             <pubDate>Sun, 27 Nov 2022 17:05:10 +0300</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/dimabobrov/zsc-public/releases/download/1.5.0/ZSC.zip" length="4051469" type="application/octet-stream" sparkle:edSignature="XL7dGrf7Y6M3FhkjUg6Mz0Ec1/NwfUsLlZdthPDAUpMxe/3NE0fV059dp5IuGDsHztg99C5YdEljDXcGtv/qCQ=="/>
-        </item>
-        <item>
-            <title>1.4.0</title>
-            <pubDate>Thu, 25 Aug 2022 01:19:07 +0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/dimabobrov/zsc-public/releases/download/1.4.0/ZSC.zip" length="3977533" type="application/octet-stream" sparkle:edSignature="CSSj69N8LjQkL5nUkes3baliCOLPb8cchplLsWDnAIS8YS8CUGcCg89aG5THpDBNpgIQmQ6ulx98HkoB4+PLBA=="/>
         </item>
     </channel>
 </rss>
