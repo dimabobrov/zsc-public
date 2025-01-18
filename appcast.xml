@@ -3,6 +3,14 @@
     <channel>
         <title>ZSC</title>
         <item>
+            <title>2.4.0</title>
+            <pubDate>Sat, 18 Jan 2025 12:18:05 +0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/dimabobrov/zsc-public/releases/download/2.4.0/ZSC.zip" length="8464121" type="application/octet-stream" sparkle:edSignature="KABS5uZyZz6um3XWGXUo1GsigcDZ7QxTow+GD9jq4+km7bifTWFTrIGkGGGuoEAiqMu+cBfLXw/89jfvyuLmAA=="/>
+        </item>
+        <item>
             <title>2.3.0</title>
             <pubDate>Mon, 16 Sep 2024 19:43:32 +0300</pubDate>
             <sparkle:version>15</sparkle:version>
